@@ -8,4 +8,5 @@ install the contents in package.json
 
 run npx cypress open
 
-and bam 
+and bam u are all set
+
