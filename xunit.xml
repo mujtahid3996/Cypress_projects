@@ -1,0 +1,12 @@
+<testsuite name="Mocha Tests" tests="10" failures="0" errors="0" skipped="0" timestamp="Fri, 06 May 2022 17:48:45 GMT" time="14.005">
+<testcase classname="test_cases for sign_up" name="validate text area is visible and working for firstname" time="11.362"/>
+<testcase classname="test_cases for sign_up" name="validate text area is visible and working for firstname" time="0.208"/>
+<testcase classname="test_cases for sign_up" name="validate text area is visible and working for email" time="0.297"/>
+<testcase classname="test_cases for sign_up" name="validate textarea is visible and working for password" time="0.188"/>
+<testcase classname="test_cases for sign_up" name="validate eye button is working in password field" time="0.272"/>
+<testcase classname="test_cases for sign_up" name="validate re-enter password is visible and working" time="0.184"/>
+<testcase classname="test_cases for sign_up" name="validate register button is visible" time="0.014"/>
+<testcase classname="test_cases for sign_up" name="validate facebook signup is visible" time="0.01"/>
+<testcase classname="test_cases for sign_up" name="validate google signup is visible" time="0.012"/>
+<testcase classname="test_cases for sign_up" name="validate gender options are visible" time="0.019"/>
+</testsuite>
