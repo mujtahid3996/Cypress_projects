@@ -2,7 +2,6 @@
   "chromeWebSecurity": false,
   "viewportWidth": 1920,
   "viewportHeight": 1080,
-  "testFiles": "**/Indybuild/*",
   "projectId": "hrhiin",
   "reporter": "cypress-mochawesome-reporter",
   "reporterOptions": {

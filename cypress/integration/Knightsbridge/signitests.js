@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+
 describe('Automating the test cases for signin',() =>{
     beforeEach(()=>{
         cy.visit('https://new-qa.knights.app/login')
