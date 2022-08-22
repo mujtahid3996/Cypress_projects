@@ -28,5 +28,11 @@ describe('Testcases for Homepage',()=>{
         cy.get(':nth-child(4) > .icon-holder').click()
         cy.get('.active > .dropdown-menu > :nth-child(2) > .pointer').should('be.visible')
     })
-    it('')
+    it('validate connections module is visible from navbar',()=>{
+        cy.get(':nth-child(5) > .icon-holder').should('be.visible')
+    })
+    it.only('validate connections module is working from navbar',()=>{
+        cy.get(':nth-child(5) > .icon-holder').click()
+        cy.get('.active > .dropdown-menu > :nth-child(3) > .pointer').should('be.visible')
+    })
 })

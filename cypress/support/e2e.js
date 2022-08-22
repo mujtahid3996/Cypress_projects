@@ -25,3 +25,8 @@ import 'cypress-mochawesome-reporter/register';
 //         addContext({ test }, screenshot);  
 //     }
 //   });
+// Cypress.on('uncaught:exception', (err, runnable) => {
+//     // returning false here prevents Cypress from
+//     // failing the test
+//     return false
+//   })
